@@ -14,7 +14,11 @@
     "es",
     "iso-week"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bareche/barechechrono-es.git"
+  },
   "author": "Brian Areche <arecheminayabj@gmail.com>",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "module"
 }
