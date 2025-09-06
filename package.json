@@ -1,6 +1,6 @@
 {
   "name": "barechechrono-es",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utilidades mínimas para fechas en JS (ES/ISO)",
   "main": "src/index.mjs",
   "scripts": {
